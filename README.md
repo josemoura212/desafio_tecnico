@@ -21,6 +21,10 @@
 
 2. Faça o clone ou o download deste repositorio.
 
+### Obs
+
+No momento que subi o repositorio verifiquei que o dart esta com um bug no stdin que afeta o funcionamento desta função como reportado nesse issues (https://github.com/dart-lang/sdk/issues/53973), porem fazendo testes consegui rodar o programa sem problemas usando o terminal do vscode usando o comando abaixo.
+
 3. Dentro do diretorio do projeto abra um terminal e use o comando
 
 ```
